@@ -1,3 +1,5 @@
+# 03_erase_canvas.
+
 import pygame
 import time
 
